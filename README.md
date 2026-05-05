@@ -1,10 +1,10 @@
-# Hey! I'm Devin, a Software Engineer and Game Developer.
+# Hey! I'm [Devin](https://schutz.dev), a Software Engineer and Game Developer.
 
 I'm a **Utah State University** CS grad (California native) with a passion for building complex systems, from flight software to game engines.
 
-Currently, I'm a lead for the **GAS Small Sat Team**, where I'm implementing the JPL-developed **F-Prime** framework to build the codebase for the **GASRATS** satellite mission. 🛰️
+Currently, I'm a lead for the [**GAS Small Sat Team**](https://artsci.usu.edu/physics/gas/), where I'm implementing the JPL-developed [**F-Prime**](https://fprime.jpl.nasa.gov/) framework to build the codebase for the **GASRATS** satellite mission. 🛰️
 
-I’m also the co-founder of an indie studio, currently developing **Oar We There Yet**. We are hard at work preparing for our **Steam** demo launch in April 2026.
+I’m also the co-founder of an indie studio, currently developing [**Oar We There Yet**](https://store.steampowered.com/app/4562170/Oar_We_There_Yet/). We are hard at work preparing for our **Steam** demo launch in April 2026.
 
 **Previously:**
 * **Robotics:** Spent years as a lead programmer for competitive robotics teams, mastering real-time logic and hardware integration.
