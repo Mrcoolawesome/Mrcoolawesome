@@ -1,5 +1,6 @@
 # Hey! I'm Devin, a Software Engineer and Game Developer.
 
+
 I'm a **Utah State University** CS grad (California native) with a passion for building complex systems, from flight software to game engines.
 
 Currently, I'm a lead for the **GAS Small Sat Team**, where I'm implementing the JPL-developed **F-Prime** framework to build the codebase for the **GASRATS** satellite mission. 🛰️
@@ -17,6 +18,6 @@ I am a **Game Developer** at heart, specializing in C#, with a deep background i
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="generated/overview.svg#gh-dark-mode-only" width="48%" />
-  <img src="generated/languages.svg#gh-dark-mode-only" width="48%" />
+  <img src="profile/stats.svg" width="48%" />
+  <img src="profile/langs.svg" width="48%" />
 </p>
