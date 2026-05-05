@@ -1,28 +1,25 @@
-name: Generate Stats Images
+name: GitHub Stats PDF and SVG
 
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
-  workflow_dispatch: # Allows you to run it manually
+  workflow_dispatch: # Allows manual run
 
 jobs:
-  update-stats:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       
-      - name: Generate GitHub Stats SVG
-        uses: anuraghazra/github-readme-stats@master # Or a dedicated action version
+      - name: Generate Stats
+        uses: teoxoy/profile-readme-stats@v1.2
         with:
-          # This saves the file locally in your repo so it NEVER goes down
-          output: ./generated/overview.svg 
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN }} # See note below about this!
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update GitHub Stats" || exit 0
+          git commit -m "Update GitHub stats" || exit 0
           git push
