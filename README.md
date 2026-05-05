@@ -11,12 +11,3 @@ I’m also the co-founder of an indie studio, currently developing **Oar We Ther
 * **Production:** During COVID, I pivoted to digital media for my church, managing end-to-end video production and streaming under tight deadlines.
 
 I am a **Game Developer** at heart, specializing in C#, with a deep background in full-stack tools and embedded systems.
-
-&nbsp;
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="generated/overview.svg#gh-dark-mode-only" width="48%" />
-  <img src="generated/languages.svg#gh-dark-mode-only" width="48%" />
-</p>
