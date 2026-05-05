@@ -14,7 +14,9 @@ I am a **Game Developer** at heart, specializing in C#, with a deep background i
 
 &nbsp;
 
+## 📊 GitHub Stats
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrcoolawesome&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcoolawesome&layout=compact&theme=tokyonight&hide_border=false" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mrcoolawesome&show_icons=true&theme=tokyonight" width="48%" alt="Devin's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrcoolawesome&layout=compact&theme=tokyonight" width="48%" alt="Devin's Languages" />
 </p>
